@@ -1,0 +1,10 @@
+{
+    "values": [
+        "autocrafting:search",
+        "autocrafting:test",
+        "autocrafting:read",
+        "autocrafting:crafting",
+        "autocrafting:write",
+        "autocrafting:throw"
+    ]
+}

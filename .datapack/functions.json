@@ -1,1 +1,1 @@
-{"autocrafting":{"$func":["init"]}}
+{"autocrafting":{"$func":["read","crafting","init","read","search","test","write","throw"]}}
